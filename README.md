@@ -73,4 +73,4 @@ Commentaires sont autorisés avec `//`.
 
 ## 📊 Graphe de Gantt
 
-Affichage console avec ou sans interaction utilisateur, selon le mode choisi.
+Affichage console avec ou sans interaction utilisateur, selon le mode choisi
